@@ -1,0 +1,19 @@
+/* ./src/index.css */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.theme-dark {
+
+    color: rgb(219, 222, 225) !important;
+    background: rgb(30, 31, 34) !important;
+}
+
+.theme-high  {
+    color: black !important;
+    background: whitesmoke !important;
+
+
+}
